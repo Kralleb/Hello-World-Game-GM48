@@ -2,6 +2,8 @@
   "resources": [
     {"id":{"name":"obj_hello_world","path":"objects/obj_hello_world/obj_hello_world.yy",},"order":0,},
     {"id":{"name":"spr_hello_world","path":"sprites/spr_hello_world/spr_hello_world.yy",},"order":0,},
+    {"id":{"name":"obj_spinner","path":"objects/obj_spinner/obj_spinner.yy",},"order":1,},
+    {"id":{"name":"spr_Spinner","path":"sprites/spr_Spinner/spr_Spinner.yy",},"order":1,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [
@@ -14,6 +16,8 @@
     {"name":"tvOS","path":"options/tvos/options_tvos.yy",},
     {"name":"Windows","path":"options/windows/options_windows.yy",},
     {"name":"operagx","path":"options/operagx/options_operagx.yy",},
+    {"name":"HTML5","path":"options/html5/options_html5.yy",},
+    {"name":"Windows UWP","path":"options/windowsuap/options_windowsuap.yy",},
   ],
   "isDnDProject": false,
   "isEcma": false,
@@ -49,7 +53,7 @@
   ],
   "IncludedFiles": [],
   "MetaData": {
-    "IDEVersion": "2.3.6.595",
+    "IDEVersion": "2.3.7.606",
   },
   "resourceVersion": "1.4",
   "name": "Hello World GM48 Test project",
